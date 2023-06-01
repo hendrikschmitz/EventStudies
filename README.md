@@ -1,2 +1,2 @@
 # EventStudies
- Our Stata ados for Event studie estimations
+ Our Stata ados for Event study estimations
